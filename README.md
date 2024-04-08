@@ -28,5 +28,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/xpanel-cp/XPanel-SSH-User-Mana
 
 6 - برای استفاده از این کانفیگ Tuic در اندروید نرم افزار hiddify ایرانی بهتر عمل کرد دانلود و نصب کردم و کانفیگ رو اسکن و استارت زدم.
 
+نکته : در کلود فلر پروکسی رو نیر فعال کردم و ssl رو هم روی full گذاشتم
+
 
 
