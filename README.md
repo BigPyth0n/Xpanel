@@ -30,5 +30,12 @@ bash <(curl -Ls https://raw.githubusercontent.com/xpanel-cp/XPanel-SSH-User-Mana
 
 نکته : در کلود فلر پروکسی رو نیر فعال کردم و ssl رو هم روی full گذاشتم
 
+خطا برای نصب نشدن php8.1 از رپوزیتوری خودم برای بروزرسانی مخازن و اضافه کردن مخزن نصب php8.1 کمک گرفتم و برای دوتا خطای نصب نشدن دیگه این دستورات رو هم میتونم بصورت دستی قبل از نصب xpanel اضافه کنم:
+
+sudo apt install -y npm
+
+sudo apt install -y nethogs
+
+
 
 
