@@ -36,6 +36,20 @@ sudo apt install -y npm
 
 sudo apt install -y nethogs
 
+برای رفع خطای hostbame:
+==> hostname
+مثلا این نام رو برگردوند
+y5eqrty7.vm
+
+sudo nano /etc/hosts
+بعد این خطوط رو به این فایل اضافه میکینم
+127.0.0.1   localhost
+127.0.1.1   fv123wqh.vm
+
+برای اطمینان آخر سر هم این دستور رو میزنیم البته با اون نام دامنه ای که سیستم بهم داده
+==> sudo hostnamectl set-hostname y5eqrty7.vm
+
+
 
 
 
